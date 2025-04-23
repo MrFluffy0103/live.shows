@@ -1,0 +1,320 @@
+#EXTM3U x-tvg-url="https://tvpass.org/epg.xml"
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed SD" group-title="Live",A&E US Eastern Feed SD
+https://tvpass.org/live/AEEast/sd
+
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY SD" group-title="Live",ABC (WABC) New York, NY SD
+https://tvpass.org/live/WABCDT1/sd
+
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network SD" group-title="Live",ACC Network SD
+https://tvpass.org/live/ACCNetwork/sd
+
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver SD" group-title="Live",Altitude Sports Denver SD
+https://tvpass.org/live/altitude-sports-denver/sd
+
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed SD" group-title="Live",AMC Eastern Feed SD
+https://tvpass.org/live/AMCEast/sd
+
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel SD" group-title="Live",American Heroes Channel SD
+https://tvpass.org/live/AmericanHeroesChannel/sd
+
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East SD" group-title="Live",Animal Planet US East SD
+https://tvpass.org/live/AnimalPlanetEast/sd
+
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East SD" group-title="Live",BBC America East SD
+https://tvpass.org/live/BBCAmericaEast/sd
+
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America HD SD" group-title="Live",BBC News North America HD SD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed SD" group-title="Live",BET Eastern Feed SD
+https://tvpass.org/live/BETEast/sd
+
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her SD" group-title="Live",BET Her SD
+https://tvpass.org/live/BETHerEast/sd
+
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network SD" group-title="Live",Big Ten Network SD
+https://tvpass.org/live/BTN/sd
+
+#EXTINF:-1 tvg-id="bloomberg-tv-usa" tvg-name="Bloomberg TV USA SD" group-title="Live",Bloomberg TV USA SD
+https://tvpass.org/live/BloombergTV/sd
+
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang SD" group-title="Live",Boomerang SD
+https://tvpass.org/live/Boomerang/sd
+
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed SD" group-title="Live",Bravo USA Eastern Feed SD
+https://tvpass.org/live/BravoEast/sd
+d
+#EXTINF:-1 tvg-id="cspan" tvg-name="C-SPAN SD" group-title="Live",C-SPAN SD
+https://tvpass.org/live/CSPAN/sd
+
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2 SD" group-title="Live",C-SPAN 2 SD
+https://tvpass.org/live/CSPAN2/sd
+
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed SD" group-title="Live",Cartoon Network USA Eastern Feed SD
+https://tvpass.org/live/CartoonNetworkEast/sd
+
+#EXTINF:-1 tvg-id="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles SD" group-title="Live",CBS (KCBS) Los Angeles SD
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+
+#EXTINF:-1 tvg-id="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY SD" group-title="Live",CBS (WCBS) New York, NY SD
+https://tvpass.org/live/WCBSDT1/sd
+
+#EXTINF:-1 tvg-id="cbs-sports-network-usa" tvg-name="CBS Sports Network USA SD" group-title="Live",CBS Sports Network USA SD
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+
+#EXTINF:-1 tvg-id="chicago-sports-network" tvg-name="Chicago Sports Network SD" group-title="Live",Chicago Sports Network SD
+https://tvpass.org/live/chicago-sports-network/sd
+
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed SD" group-title="Live",Cinemax Eastern Feed SD
+https://tvpass.org/live/CinemaxEast/sd
+
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed SD" group-title="Live",CMT US Eastern Feed SD
+https://tvpass.org/live/CMTEast/sd
+
+#EXTINF:-1 tvg-id="cnbc-usa" tvg-name="CNBC USA SD" group-title="Live",CNBC USA SD
+https://tvpass.org/live/CNBC/sd
+
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN US SD" group-title="Live",CNN US SD
+https://tvpass.org/live/CNN/sd
+
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed SD" group-title="Live",Comedy Central (US) Eastern Feed SD
+https://tvpass.org/live/ComedyCentralEast/sd
+
+#EXTINF:-1 tvg-id="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia SD" group-title="Live",CW (WDCW) District of Columbia SD
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America SD" group-title="Live",Destination America SD
+https://tvpass.org/live/DestinationAmerica/sd
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed SD" group-title="Live",Discovery Channel (US) Eastern Feed SD
+https://tvpass.org/live/DiscoveryChannelEast/sd
+
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel SD" group-title="Live",Discovery Family Channel SD
+https://tvpass.org/live/DiscoveryFamily/sd
+
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel SD" group-title="Live",Discovery Life Channel SD
+https://tvpass.org/live/DiscoveryLife/sd
+
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed SD" group-title="Live",Disney Eastern Feed SD
+https://tvpass.org/live/DisneyChannelEast/sd
+
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East SD" group-title="Live",Disney Junior USA East SD
+https://tvpass.org/live/DisneyJuniorEast/sd
+
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed SD" group-title="Live",Disney XD USA Eastern Feed SD
+https://tvpass.org/live/DisneyXDEast/sd
+
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed SD" group-title="Live",E! Entertainment USA Eastern Feed SD
+https://tvpass.org/live/EEast/sd
+
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN SD" group-title="Live",ESPN SD
+https://tvpass.org/live/ESPN/sd
+
+#EXTINF:-1 tvg-id="espn-news" tvg-name="ESPN News SD" group-title="Live",ESPN News SD
+https://tvpass.org/live/ESPNews/sd
+
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2 SD" group-title="Live",ESPN2 SD
+https://tvpass.org/live/ESPN2/sd
+
+#EXTINF:-1 tvg-id="food-network-usa-eastern-feed" tvg-name="Food Network USA Eastern Feed SD" group-title="Live",Food Network USA Eastern Feed SD
+https://tvpass.org/live/FoodNetworkEast/sd
+
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel SD" group-title="Live",FX Movie Channel SD
+https://tvpass.org/live/FXMovieChannel/sd
+
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed SD" group-title="Live",Hallmark Eastern Feed SD
+https://tvpass.org/live/HallmarkChannelEast/sd
+
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family HD SD" group-title="Live",Hallmark Family HD SD
+https://tvpass.org/live/HallmarkDrama/sd
+
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD SD" group-title="Live",Hallmark Mystery Eastern HD SD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed SD" group-title="Live",HBO Eastern Feed SD
+https://tvpass.org/live/HBOEast/sd
+
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed SD" group-title="Live",HBO 2 Eastern Feed SD
+https://tvpass.org/live/HBO2East/sd
+
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East SD" group-title="Live",HBO Comedy HD East SD
+https://tvpass.org/live/HBOComedyEast/sd
+
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed SD" group-title="Live",HBO Family Eastern Feed SD
+https://tvpass.org/live/HBOFamilyEast/sd
+
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern SD" group-title="Live",HBO Signature (HBO 3) Eastern SD
+https://tvpass.org/live/HBOSignatureEast/sd
+
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone HD East SD" group-title="Live",HBO Zone HD East SD
+https://tvpass.org/live/HBOZoneEast/sd
+
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed SD" group-title="Live",History Channel US Eastern Feed SD
+https://tvpass.org/live/HistoryEast/sd
+
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US SD" group-title="Live",Independent Film Channel US SD
+https://tvpass.org/live/IFCEast/sd
+
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern SD" group-title="Live",Investigation Discovery USA Eastern SD
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East SD" group-title="Live",Lifetime Movies East SD
+https://tvpass.org/live/LifetimeMoviesEast/sd
+
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey SD" group-title="Live",MeTV Toons (WJLP2) New Jersey SD
+https://tvpass.org/live/metv-toons/sd
+
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East SD" group-title="Live",MovieMax (Max 6) East SD
+https://tvpass.org/live/MovieMaxEast/sd
+
+#EXTINF:-1 tvg-id="mtv-2-east" tvg-name="MTV 2 East SD" group-title="Live",MTV 2 East SD
+https://tvpass.org/live/mtv-2-east/sd
+
+#EXTINF:-1 tvg-id="mtv-usa-eastern-feed" tvg-name="MTV USA Eastern Feed SD" group-title="Live",MTV USA Eastern Feed SD
+https://tvpass.org/live/MTVEast/sd
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern SD" group-title="Live",National Geographic US Eastern SD
+https://tvpass.org/live/NationalGeographicEast/sd
+
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild SD" group-title="Live",National Geographic Wild SD
+https://tvpass.org/live/NationalGeographicWildEast/sd
+
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East SD" group-title="Live",Nick Jr. East SD
+https://tvpass.org/live/NickJrEast/sd
+
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed SD" group-title="Live",Nickelodeon USA East Feed SD
+https://tvpass.org/live/NickelodeonEast/sd
+
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East SD" group-title="Live",Nicktoons East SD
+https://tvpass.org/live/NicktoonsEast/sd
+
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel SD" group-title="Live",ReelzChannel SD
+https://tvpass.org/live/Reelz/sd
+
+#EXTINF:-1 tvg-id="science" tvg-name="Science SD" group-title="Live",Science SD
+https://tvpass.org/live/Science/sd
+
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network SD" group-title="Live",SEC Network SD
+https://tvpass.org/live/SECN/sd
+
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed SD" group-title="Live",Showtime Eastern Feed SD
+https://tvpass.org/live/ShowtimeEast/sd
+
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern SD" group-title="Live",Showtime 2 Eastern SD
+https://tvpass.org/live/Showtime2East/sd
+
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern SD" group-title="Live",Starz Eastern SD
+https://tvpass.org/live/StarzEast/sd
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed SD" group-title="Live",Syfy Eastern Feed SD
+https://tvpass.org/live/SyfyEast/sd
+
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East SD" group-title="Live",TBS East SD
+https://tvpass.org/live/TBSEast/sd
+
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern SD" group-title="Live",TeenNick Eastern SD
+https://tvpass.org/live/TeenNickEast/sd
+
+#EXTINF:-1 tvg-id="the-cooking-channel" tvg-name="The Cooking Channel SD" group-title="Live",The Cooking Channel SD
+https://tvpass.org/live/CookingChannel/sd
+
+#EXTINF:-1 tvg-id="the-tennis-channel" tvg-name="The Tennis Channel SD" group-title="Live",The Tennis Channel SD
+https://tvpass.org/live/TennisChannel/sd
+
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel SD" group-title="Live",The Weather Channel SD
+https://tvpass.org/live/TheWeatherChannel/sd
+
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern SD" group-title="Live",TLC USA Eastern SD
+https://tvpass.org/live/TLCEast/sd
+
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed SD" group-title="Live",TMC (US) Eastern Feed SD
+https://tvpass.org/live/TheMovieChannelEast/sd
+
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed SD" group-title="Live",TNT Eastern Feed SD
+https://tvpass.org/live/TNTEast/sd
+
+#EXTINF:-1 tvg-id="travel-us-east" tvg-name="Travel US East SD" group-title="Live",Travel US East SD
+https://tvpass.org/live/TravelChannelEast/sd
+
+#EXTINF:-1 tvg-id="trutv-usa-eastern" tvg-name="truTV USA Eastern SD" group-title="Live",truTV USA Eastern SD
+https://tvpass.org/live/truTVEast/sd
+
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA SD" group-title="Live",Turner Classic Movies USA SD
+https://tvpass.org/live/TCMEast/sd
+
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern SD" group-title="Live",TV Land Eastern SD
+https://tvpass.org/live/tv-land-eastern/sd
+
+#EXTINF:-1 tvg-id="tv-one" tvg-name="TV One SD" group-title="Live",TV One SD
+https://tvpass.org/live/TVOne/sd
+
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids SD" group-title="Live",Universal Kids SD
+https://tvpass.org/live/UniversalKidsEast/sd
+
+#EXTINF:-1 tvg-id="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern SD" group-title="Live",WE (Women's Entertainment) Eastern SD
+https://tvpass.org/live/WeTVEast/sd
+
+#EXTINF:-1 tvg-id="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION) SD" group-title="Live",WPIX New York (SUPERSTATION) SD
+https://tvpass.org/live/WPIX/sd
+
+#EXTINF:-1 tvg-id="yes-network" tvg-name="Yes Network SD" group-title="Live",Yes Network SD
+https://tvpass.org/live/yes-network/sd
+
+#EXTINF:-1 tvg-id="AnimeAllDay.us" tvg-logo="https://i.imgur.com/bYZtd0G.png" group-title="Animation",Anime All Day
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356
+
+#EXTINF:-1 tvg-id="AnimeTV.br" tvg-logo="https://i.imgur.com/CFSSTID.png" group-title="Animation",Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png" group-title="Culture;Documentary",BBC Four
+https://vs-cmaf-pushb-uk.live.fastly.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="News",BBC News
+https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png" group-title="General",BBC One
+https://x.canlitvapp.com/u-bbc-1/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCRedButton1.uk" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png" group-title="",BBC Red Button 1
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_001/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="BBCScotland.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/BBC_Scotland_2021_%28channel%29.svg/512px-BBC_Scotland_2021_%28channel%29.svg.png" group-title="General",BBC Scotland
+http://92.114.85.72:8000/play/a0mf
+
+#EXTINF:-1 tvg-id="BBCThree.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png" group-title="General",BBC Three
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png" group-title="General",BBC Two
+https://x.canlitvapp.com/u-bbc2/index.m3u8
+
+#EXTINF:-1 tvg-id="BBCUHD1.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png" group-title="General",BBC UHD 1
+https://ve-uhd-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:uhd_stream_01/iptv_uhd_v1.mpd
+
+#EXTINF:-1 tvg-id="CBeebies.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png" group-title="Kids",CBeebies
+https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:cbeebies_hd/iptv_hd_abr_v1.mpd
+
+#EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Nickelodeon Sonic
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png" group-title="Music",Now 70s
+https://lightning-now70s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now70s-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/YyPnMeB.png" group-title="Music",Now 80s
+https://lightning-now80s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now80s-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NOWRock.uk" tvg-logo="https://i.imgur.com/GuM4GnX.png" group-title="Music",NOW Rock
+https://lightning-now90s-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-lightning-now90s-rakuten/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SABC1.za" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="",SABC 1
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SABC2.za" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="",SABC 2
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SABC3.za" tvg-logo="https://i.imgur.com/eEhLk1D.png" group-title="",SABC 3
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SABCNews.za" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="News",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SkyNewsExtra1.au" tvg-logo="https://i.imgur.com/ZsPb8nL.png" group-title="News",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
